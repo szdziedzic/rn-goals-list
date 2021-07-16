@@ -25,13 +25,14 @@ const styles = StyleSheet.create({
   inputContainer: {
     flex: 1,
     justifyContent: 'center',
-    alignContent: 'center',
+    alignItems: 'center',
   },
   input: {
     borderColor: 'black',
     borderWidth: 1,
     padding: 10,
     width: '80%',
+    marginBottom: 10,
   },
 });
 
